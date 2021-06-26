@@ -16,3 +16,20 @@ body{
 h1, h2, h3, h4, h5, h6{
     font-family: 'Lobster', cursive;
 }
+
+.icones>a>i{
+    font-size: 2rem;
+    color: #fff; 
+}
+
+.footer-cell{
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+}
+
+.footer-pc{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+}
+
