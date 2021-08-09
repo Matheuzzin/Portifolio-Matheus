@@ -15,3 +15,5 @@ Este repositório tem como finalidade a apresentação dos recursos do GitHub e 
 26/07 -  Aula sobre contrução de uma janela modal, bem como a criação de uma funcionalidade JQuery para o acionamento do mesmo.
 
 02/07 - Modificações feitas nas Janelas Modais.
+
+09/08 - Interatividade com JQuery.
