@@ -55,7 +55,6 @@ $('a').click(function(e){
             $('#modal-info').modal('show')
         break
 
-        default: alert('Link não encontrado');
     }
 
     })
