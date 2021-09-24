@@ -17,3 +17,5 @@ Este repositório tem como finalidade a apresentação dos recursos do GitHub e 
 02/07 - Modificações feitas nas Janelas Modais.
 
 09/08 - Interatividade com JQuery.
+
+24/09 - Aplicação do PWA.
